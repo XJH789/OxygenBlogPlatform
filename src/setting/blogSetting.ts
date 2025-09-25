@@ -25,7 +25,7 @@ interface BlogCopyrightConfig {
 export const copyrightConfig: BlogCopyrightConfig = {
   showCopyright: true, //是否显示版权声明
   defaultLicense: "CC BY-NC-SA", //默认版权声明协议
-  author: "XuHaoYang", //作者
+  author: "XJH", //作者
   siteName: "个人博客", //你网站的名称
   siteUrl: "https://xuhaoyang.top", //这里填写你的域名(当前网站)
 };
