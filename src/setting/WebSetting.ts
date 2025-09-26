@@ -3,7 +3,7 @@ export const webTitle = "XJH's Blog"; // 网站标题：浏览器显示
 export const webDescription = "个人博客"; // 网站描述：浏览器显示
 
 //网站背景图配置
-export const backgroundImage = "/8bb4fa4f322b575e917257543ab0556e.png"; // 网站整体背景图片路径：public目录下，以/开头确保路径正确
+export const backgroundImage = "/8bb4fa4f322b575e917257543ab0556e.jpg"; // 网站整体背景图片路径：public目录下，以/开头确保路径正确
 export const enableBackground = true; // 是否启用背景图片
 
 //背景图片显示模式配置
